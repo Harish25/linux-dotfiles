@@ -1,12 +1,12 @@
 # CachyOS Dotfiles 
 
 A collection of important configuration files for my daily driver on CachyOS Linux.  
-Managed via Stow.
+This repository serves as a personal backup. Managed via GNU Stow.
 
 ## Tools
-* **OS:** [CachyOS](https://cachyos.org/) (Arch-based) *(x86-64-v3 optimized for 13600k cpu)*
+* **OS:** [CachyOS](https://cachyos.org/) (Arch-based) *(x86-64-v3 optimized for 13600k)*
 * **WM:** [Hyprland](https://hypr.land/)
-* **Theming/Shell:** [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell) *(The core of this setup, its great)*
+* **Theming/Shell:** [Noctalia Shell](https://github.com/noctalia-dev/noctalia-shell) *(The core of this setup, highly recommended!)*
 * **Terminal:** kitty
 
 ## Theming

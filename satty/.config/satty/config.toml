@@ -1,0 +1,25 @@
+[general]
+# Default tool when editor opens (`pointer`, `crop`, `line`, `arrow`, `rectangle`, `ellipse`, `text`, `marker`, `blur`, `highlight`, `brush`)
+initial-tool = "brush"
+
+# Copy to clipboard
+copy-command = "wl-copy"
+
+save-after-copy = false
+
+# Boolean -> close immediately after copying/saving
+early-exit = false
+
+output-filename = "/home/infuse/Pictures/Screenshots/satty-%Y%m%d-%H%M%S.png"
+
+[color-palette]
+palette = [
+  "#FF0000", # Red (Initial color)
+  "#00FF00", # Green
+  "#0000FF", # Blue
+  "#FFFF00", # Yellow
+  "#FF00FF", # Magenta
+  "#00FFFF", # Cyan
+  "#FFFFFF", # White
+  "#000000", # Black
+]

@@ -56,7 +56,7 @@
         "hideOnOverview": false,
         "marginHorizontal": 4,
         "marginVertical": 4,
-        "middleClickAction": "none",
+        "middleClickAction": "settings",
         "middleClickCommand": "",
         "middleClickFollowMouse": false,
         "monitors": [
@@ -189,6 +189,7 @@
                 {
                     "colorizeDistroLogo": false,
                     "colorizeSystemIcon": "none",
+                    "colorizeSystemText": "none",
                     "customIconPath": "",
                     "enableColorization": false,
                     "icon": "noctalia",
@@ -230,7 +231,7 @@
         "predefinedScheme": "Catppuccin",
         "schedulingMode": "off",
         "syncGsettings": true,
-        "useWallpaperColors": false
+        "useWallpaperColors": true
     },
     "controlCenter": {
         "cards": [
@@ -441,7 +442,8 @@
         "use12hourFormat": true,
         "useFahrenheit": false,
         "weatherEnabled": true,
-        "weatherShowEffects": true
+        "weatherShowEffects": true,
+        "weatherTaliaMascotAlways": false
     },
     "network": {
         "bluetoothAutoConnect": true,
